@@ -1,5 +1,5 @@
 # Lightweight Process Scheduler
-A process scheduler that makes use of a round-robin approach to schedule its processes.
+A process scheduler that makes use of a round-robin approach scheduling.
 
 # Getting Started
 1. Run 'make' to generate all test and library files.
